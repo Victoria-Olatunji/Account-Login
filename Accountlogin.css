@@ -1,0 +1,14 @@
+input {border:0;outline:0;}
+input:focus {outline:none!important;}
+span {
+    color: rgb(42, 125, 158);
+}
+p {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.btn {
+    background-color: rgba(13, 148, 238, 0.849);
+    color: white;
+}
